@@ -1,0 +1,2 @@
+# StokGirisSayfasi
+Otomasyon Login Sayfasi
